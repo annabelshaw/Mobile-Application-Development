@@ -1,3 +1,4 @@
+theme: minima
 # Mobile-Application-Development
 Description of the Purpose of the Site:
 The "My Favorite Books" web application allows users to explore and manage their favorite books. It provides various sections for users to view their favorite books of the year, their all-time favorite books, a to-be-read list, and a form section for user input. Users can easily navigate between these sections using the navigation bar or the menu. The application aims to help book enthusiasts keep track of their reading preferences and discover new books.

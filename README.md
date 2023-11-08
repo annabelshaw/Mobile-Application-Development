@@ -1,4 +1,4 @@
-# Mobile-Application-Development
+# Final Documentation
 Description of the Purpose of the Site:
 The "My Favorite Books" web application allows users to explore and manage their favorite books. It provides various sections for users to view their favorite books of the year, their all-time favorite books, a to-be-read list, and a form section for user input. Users can easily navigate between these sections using the navigation bar or the menu. The application aims to help book enthusiasts keep track of their reading preferences and discover new books.
 
@@ -32,3 +32,4 @@ This page contains a form for users to input their information, including their 
 
 URL of the Sample or Production Site:
    	https://sotd.us/annabelshaw1/Module%206_/ 
+      https://annabelshaw.github.io/My-Favorite-Books-Site/ 
